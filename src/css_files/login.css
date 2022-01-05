@@ -1,0 +1,26 @@
+input{
+    height: 45px;
+    width: 380px;
+    border-radius: 6px;
+    border: none;
+    padding-left: 12px;
+    background: none;
+    border-bottom: 2px solid  #00478b;
+}
+.heading{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.btn-primary{
+    background-color: #00478b;
+    width: 380px;
+    height: 40px;
+}
+.btn-primary:hover{
+    border: none;
+}
+.btn-warning{
+    width: 380px;
+    height: 40px;
+}
